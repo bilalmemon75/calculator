@@ -1,0 +1,27 @@
+.main{
+   margin: 0 auto;
+   width: 200px;
+   border: 2px solid black ;
+}
+.result{
+    color: black;
+    width: 96% ;
+    box-shadow: 2px 4px 5px grey;
+}
+.clearbtn{
+    margin-top: 10px;
+    width: 100%;
+    box-shadow: 2px 4px 5px grey;
+  
+}
+.btn{
+    margin: 1px;
+    width: 45px;
+    box-shadow: 2px 4px 5px grey;
+    
+}
+.halfbtn{
+    width: 95px;
+    box-shadow: 2px 4px 5px grey;
+    margin-top: 5px;
+}
